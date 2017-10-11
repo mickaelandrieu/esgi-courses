@@ -6,8 +6,7 @@ Semaine thématique organisée dans le cadre de la formation des Bachelors du pa
 
 ## GitHub
 
-Formation à la plateforme collaborative GitHub au travers de travaux pratiques, complétée par le parcours de formation "à la demande"
-officiel de GitHub.
+Formation à la plateforme collaborative GitHub au travers de travaux pratiques, complétée par le [parcours de formation](https://services.github.com/on-demand/) "à la demande" officiel de GitHub.
 
 * Création d'un compte, d'une organisation, d'un dépot;
 * Gestion des informations du compte, profil et sécurité;
