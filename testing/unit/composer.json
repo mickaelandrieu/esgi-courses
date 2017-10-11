@@ -1,0 +1,22 @@
+{
+    "name": "mickaelandrieu/testunits",
+    "description": "A simple project to experiment unit tests",
+    "type": "project",
+    "autoload": {
+        "SolvoLabs\\": ""
+    },
+    "require": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit --bootstrap Calculator.php CalculatorTest.php --colors=always",
+        "testdox": "./vendor/bin/phpunit --bootstrap Calculator.php CalculatorTest.php --testdox"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mickaël Andrieu",
+            "email": "mickael.andrieu@solvolabs.com"
+        }
+    ]
+}
