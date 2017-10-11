@@ -28,12 +28,12 @@ Aller sur [https://github.com](https://github.com) et se connecter à l'aide de 
 
 - Cliquer sur l'icône "+" et choisir "New organization".
 - Qu'est-ce qui différencie le plan gratuit des plans payants?
-- Créer l'organisation "esgi-<nom>-<prenom>" avec le plan gratuit et l'email choisi pour l'inscription.
+- Créer l'organisation "esgi-<nom>-<prenom>" (par ex: https://github.com/organizations/esgi-andrieu-mickael) avec le plan gratuit et l'email choisi pour l'inscription.
 - Ajouter l'utilisateur "mickaelandrieu" à votre organisation.
 
 ### Gestion de l'organization
 
-- Accéder à votre organisation (Normalement disponible sur https://github.com/organizations/esgi-<nom>-<prenom>
+- Accéder à votre organisation (Normalement disponible sur https://github.com/organizations/esgi-nom-prenom)
 - Dans la partie "Settings", compléter les informations suivantes:
     - Nom d'affichage: ESGI - bonnes pratiques du code
     - Description: Organisation créée pour le module "Bonnes pratiques du Code"
@@ -51,20 +51,20 @@ Aller sur [https://github.com](https://github.com) et se connecter à l'aide de 
 
 ### Gestion d'un dépôt
 
-- Accéder à votre dépôt (Normalement disponible sur https://github.com/<login>/decouverte-de-github).
+- Accéder à votre dépôt (Normalement disponible sur https://github.com/votre-login/decouverte-de-github).
 - Dans la partie "Settings", renommer le dépôt "github-discovery" et désactiver la partie "Issues" et "Wiki".
 - Dans la partie "Collaborators", ajouter l'utilisateur "mickaelandrieu" au dépôt.
 
 ## Contribution à un dépôt
 
-- Accéder à votre dépôt (Normalement disponible sur https://github.com/<login>/github-discovery).
+- Accéder à votre dépôt (Normalement disponible sur https://github.com/votre-login/github-discovery).
 - Créer un nouveau fichier *test.txt* à l'aide du bouton "Create new file" avec le contenu *test de contribution sur GtHb* (la typo est voulue).
  - Laisser les autres champs inchangés et cliquer sur le bouton "Commit new file". 
 - Que s'est-il passé?
 - Cliquer sur le lien *2 commits* puis sur les liens *Initial commit* et *Create test.txt*: qu'est-ce qu'un commit?
 
 ### Edition d'un fichier
-- Accéder au fichier *test.txt* (Normalement disponible sur https://github.com/<login>/github-discovery/blob/master/test.txt).
+- Accéder au fichier *test.txt* (Normalement disponible sur https://github.com/votre-login/github-discovery/blob/master/test.txt).
 - Cliquer sur le picto d'édition:
 
 ![Edit a file](https://i.imgur.com/wp0OYXK.png)
@@ -83,7 +83,7 @@ Aller sur [https://github.com](https://github.com) et se connecter à l'aide de 
 
 - Accéder au module "d'Introduction à GitHub" de GitHub [https://services.github.com/on-demand/intro-to-github/](https://services.github.com/on-demand/intro-to-github/)
 - Effectuer le module "Introduction to GitHub" et effectuer une capture d'écran de votre image de profil épinglée sur la carte google fournie.
-- Ajouter cette capture d'écran à votre dépôt (Normalement disponible sur https://github.com/<login>/github-discovery).
+- Ajouter cette capture d'écran à votre dépôt (Normalement disponible sur https://github.com/votre-login/github-discovery).
  
 > Pour uploader une image, utilisez le bouton "Upload files"
 
