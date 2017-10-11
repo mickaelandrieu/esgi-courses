@@ -2,6 +2,8 @@
 
 Semaine thématique organisée dans le cadre de la formation des Bachelors du parcours "Ingénieurie du Web" de l'ESGI Paris.
 
+<img src="https://user-images.githubusercontent.com/1247388/31469017-7a31beae-aee0-11e7-8771-c964208ae326.png" width="250" alt="Ingénieurie du web et de l'eBusiness" /> 
+
 ## GitHub
 
 Formation à la plateforme collaborative GitHub au travers de travaux pratiques, complétée par le parcours de formation "à la demande"
