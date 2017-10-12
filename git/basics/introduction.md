@@ -84,7 +84,7 @@ git init
 
 > Les utilisateurs d'Ubuntu et de Mac OS X pourront vérifier que le dossier `.git` a bien été créé en exécutant la command `ls -la`.
 
-Créer ensuite un nouveau fichier "README.md" dans ce dossier qui contiendra le texte suivant: "# Hello world from Git!".
+* Créer ensuite un nouveau fichier "README.md" dans ce dossier qui contiendra le texte suivant: "# Hello world from Git!".
 
 > Dans le monde Open Source et sur GitHub, ajouter un fichier README est considéré comme une bonne pratique pour documenter un projet.
 
