@@ -22,7 +22,7 @@ Formation à la plateforme collaborative GitHub au travers de travaux pratiques,
 Formation sur le logiciel à l'aide du logiciel GitKraken et pratique du logiciel dans le terminal.
 
 * Notions de `repository`, `remote`, `branch`;
-* Commandes principales: `pull`, `push`, `commit`, `rebase`, `merge`, `status`, `diff`, `fetch`, `log`; 
+* Commandes principales: `init`, `add`, `pull`, `push`, `commit`, `rebase`, `merge`, `status`, `diff`, `fetch`, `log`, `branch`, `checkout`; 
 * Collaboration à plusieurs à l'aide d'un dépôt distant (sur GitHub);
 * Gestion de conflits;
 * Workflow Git pour le développeur;
