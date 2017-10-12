@@ -129,9 +129,9 @@ Il existe un raccourci pour créer une branche git et se déplacer directement d
  
 ## Ignorer des fichiers / dossiers
 
-Dans tout projet logiciel, certains fichiers ne devraient pas être versionnés (identifiés et conservés par Git). Par exemple, sur un projet GitHub ne doit pas contenir les mots de passe de base de données d'un site en production. De nombreux fichiers générés par les IDE (Environnement de développement comme {Web,PHP}Storm par exemple ne devraient pas être commités puisqu'ils sont spécifiques à chaque utilisateur d'un projet.
+Dans tout projet logiciel, certains fichiers ne devraient pas être versionnés (identifiés et conservés par Git). Par exemple, un projet hébergé sur GitHub ne doit pas contenir les mots de passe de base de données d'un site en production. De nombreux fichiers générés par les IDE (Environnement de développement comme {Web,PHP}Storm) ne devraient pas être commités puisqu'ils sont spécifiques à chaque utilisateur du projet.
 
-D'un autre côté, le développeur a parfois besoin de commiter un dossier vide. Par exemple, un dossier *uploads* qui contient les images de profil des utilisateurs du site. Vous aurez remarqué dans ce cas que Git semble ignorer le dossier tant qu'il ne contient pas au moins un fichier.
+D'un autre côté, le développeur a parfois besoin de commiter un dossier vide. Par exemple, un dossier *uploads* qui contient les images de profil des utilisateurs du site. Mais Git ignore les dossier vides.
 
 * Créer un fichier "A_IGNORER.txt" avec le contenu "ESGI".
 * Exécuter la commande `git status`.
