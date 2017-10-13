@@ -86,6 +86,3 @@ Aller sur [https://github.com](https://github.com) et se connecter à l'aide de 
 - Ajouter cette capture d'écran à votre dépôt (Normalement disponible sur https://github.com/votre-login/github-discovery).
  
 > Pour uploader une image, utilisez le bouton "Upload files"
-
-
- 
