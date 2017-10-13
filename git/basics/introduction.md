@@ -100,7 +100,7 @@ git init
 
 ![first-commit](https://user-images.githubusercontent.com/1247388/31519062-76042a6c-afa1-11e7-8f8e-bccff4b0f509.png)
 
-> Félicitations! Ceci est le premier commit créé à l'aide du terminal.
+Félicitations! Ceci est le premier commit créé à l'aide du terminal. Pour supprimer un fichier de l'historique git, exécuter la commande `git rm --cached README.md`: le fichier sera toujours présent dans le dossier mais plus dans l'historique de git.
 
 ### Comprendre les branches Git
 
