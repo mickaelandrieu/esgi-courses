@@ -71,6 +71,12 @@ Le but ici est de synchroniser le dépot local avec la version distante sur GitH
 - Exécuter la commande `git log` et effectuer une capture d'écran de la fenêtre du terminal.
 - Que s'est-il passé?
 
+> Ce schéma peut vous aider à comprendre ce qu'il se passe durant un "git pull".
+
+![git-pull](https://user-images.githubusercontent.com/1247388/31577027-61fd1eea-b107-11e7-8a35-a76ba3d2f311.jpg)
+
+> Si on souhaite récupérer l'historique git d'une branche sans récupérer le code correspondant, il faut utiliser la commande "fetch".
+
 ## Collaborer sur GitHub avec GitKraken
 
 ### Récupérer un dépot distant (sur GitHub)
