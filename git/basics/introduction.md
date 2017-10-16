@@ -28,7 +28,7 @@ Git possède plusieurs niveaux de paramétrage :
 - Système (Tous les utilisateurs du système)
 - Global (L'utilisateur)
 - Projet
-- 
+
 La configuration de Git se fait soit via le terminal, soit en editant directement des fichiers textes. Git a besoin de 2 paramètres pour fonctionner:
 
 - un nom d'utilisateur
