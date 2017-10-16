@@ -127,6 +127,7 @@ Un fork désigne une copie d'un dépôt. En effet, par défaut il n'est pas poss
 ## Transformer une Carte de projet GitHub en Issue
 
 - Créer une nouvelle carte "Captures d'écran" dans la colonne "A faire".
+- Dans "Settings" cocher l'option "Issues" pour ré-activer la gestion des issues.
 - Transformer la carte en issue à l'aide de l'option "Convert to issue" dans le menu déroulant.
 - Accéder à l'issue en cliquant sur le lien (Normalement accessible sur https://github.com/votre-login/github-discovery/issues/1).
 - Editer l'issue et uploader toutes les captures d'écran réalisées.
