@@ -76,7 +76,7 @@ Aller sur [https://github.com](https://github.com) et se connecter à l'aide de 
 - Dans la partie "Commit changes", mettre *Correction de typo + description de GitHub*.
 - Cliquer sur le bouton "Commit changes".
 - Que s'est-il passé?
-- Cliquer sur le lien *3 commits" puis sur le lien *Correction de typo + description de GitHub*.
+- Cliquer sur le lien *3 commits* puis sur le lien *Correction de typo + description de GitHub*.
 - Qu'est-ce qu'un commit?
 
 ## Aller plus loin dans la contribution
