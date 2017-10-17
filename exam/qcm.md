@@ -79,34 +79,34 @@
   -  [ ] aucune de ces commandes.
   
 - Quelle commande Git pour configurer l'email git@esgi.fr?
- - git config user.mail git@esgi.fr
- - git config core.mail git@esgi.fr
- - git config user.email git@esgi.fr
- - aucune de ces commandes.
+  - git config user.mail git@esgi.fr
+  - git config core.mail git@esgi.fr
+  - git config user.email git@esgi.fr
+  - aucune de ces commandes.
 
 - Quand on effectue un git init, quel dossier est crée à la racine du dépot?
- - .gitconfig
- - .config
- - .git
- - aucun dossier n'est créé lors du git init.
+  - .gitconfig
+  - .config
+  - .git
+  - aucun dossier n'est créé lors du git init.
 
 - Il paraît qu'on recupère la configuration complète en utilisant la commande `git config --all`.
- - Non, c'est `git config --list`.
- - Non, c'est faux et `git config --list` aussi d'ailleurs.
- - Oui, en effet.
+  - Non, c'est `git config --list`.
+  - Non, c'est faux et `git config --list` aussi d'ailleurs.
+  - Oui, en effet.
 
 - Dans la commande `git commit -m`, l'argument "m" fait référence:
- - Aux fichiers modifiés lors du commit.
- - Au message de commit.
- - A la description du commit.
- - Cet argument n'existe pas, c'est un piège!
+  - Aux fichiers modifiés lors du commit.
+  - Au message de commit.
+  - A la description du commit.
+  - Cet argument n'existe pas, c'est un piège!
 
 - Si on ajoute un fichier vide nommé "test" dans un dossier vide, est-ce que Git ajoutera le dossier?
   - Non, il faut que le fichier s'appelle ".gitkeep".
   - Oui bien sûr!
   - Tout dépend si le fichier "test" est vide ou non.
 
-- Quels sont les 3 états d'un fichier dans un repository?
+- Quels sont les 3 états d'un fichier dans un repository? (répondre ci dessous)
 
 
 - Comment ajouter le remote "plop" localisé sur https://github.com/toto/tata.git?
