@@ -4,9 +4,7 @@
 
 # Sujet "Bonnes pratiques du code"
 
-## QCM (5pts)
-
-### GitHub (7pts)
+## GitHub (7pts)
 
 - Qu'est ce que Github Pages?
    - [ ] Un service de publication web
@@ -42,7 +40,7 @@
   - [ ] Faux.
 
 
-### Git (13pts)
+## Git (13pts)
 
 - Quelle commande git dois-t-on utiliser pour démarrer un dépôt?
   -  [ ] git init
@@ -111,5 +109,8 @@
 - Quels sont les 3 états d'un fichier dans un repository?
 
 
-
-- Quelle est la commande pour visualiser les remotes d'un repository?
+- Comment ajouter le remote "plop" localisé sur https://github.com/toto/tata.git?
+  - git branch add plop https://github.com/toto/tata.git
+  - git remote plop https://github.com/toto/tata.git
+  - git remote add origin https://github.com/toto/tata.git
+  - Toutes ces propositions sont fausses.
