@@ -12,7 +12,7 @@
    - [ ] Ce service n'existe pas
    - [ ] aucune de ces réponses n'est juste
 
-- Vrai ou faux ? il est possible de créer une « pull request » directement à partir de Github.
+- Il est possible de créer une « pull request » directement à partir de Github.
   -  [ ] Vrai
   -  [ ] Faux
 
@@ -23,19 +23,19 @@
   -  [ ] Rien de tout ça.
 
 - Avoir un compte payant sur Github permet de:
-  -  [ ] pouvoir créer des dépôts privés
+  -  [ ] pouvoir créer des dépôts privés illimités
   -  [ ] pouvoir avoir plus de collaborateurs
   -  [ ] pouvoir avoir une meilleure gestion des droits
 
-- Vrai ou faux, sur Github on peut désactiver les pull requests:
+- Sur Github on peut désactiver les pull requests:
   -  [ ] Vrai.
   -  [ ] Faux.
 
-- Vrai ou faux, Sur GitHub il est possible de récupérer une copie de n'importe quel dépot, quel qu'il soit:
+- Sur GitHub il est possible de récupérer une copie de n'importe quel dépot public:
   - [ ] Vrai.
   - [ ] Faux.
 
-- Vrai ou faux, GitHub est fourni avec un Kanban par défaut (A faire, En cours, Fait):
+- GitHub est fourni avec un Kanban par défaut (A faire, En cours, Fait):
   - [ ] Vrai.
   - [ ] Faux.
 
@@ -106,7 +106,7 @@
   - Oui bien sûr!
   - Tout dépend si le fichier "test" est vide ou non.
 
-- Quels sont les 3 états d'un fichier dans un repository? (répondre ci dessous)
+- Quels sont les 3 états d'un fichier suivi par Git dans repository? (répondre ci dessous)
 
 
 - Comment ajouter le remote "plop" localisé sur https://github.com/toto/tata.git?
