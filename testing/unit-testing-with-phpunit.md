@@ -13,12 +13,12 @@ class UserProvider
 {
     private $database;
 
-    public function __construct(Database $datase)
+    public function __construct(Database $database)
     {
         $this->database = $database;
     }
 
-    function getUsers()
+    public function getUsers()
     {
         $users = $this->database->execute('some-query');
 
