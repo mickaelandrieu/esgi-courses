@@ -61,7 +61,7 @@ php -r "unlink('composer-setup.php');"
 Ceci ayant été fait, à la racine du dossier "unit" du dépôt "learn-testing-with-php-and-js", exécutez la commande suivante:
 
 ```
-composer require --dev php/phpunit:~5.7
+composer require --dev phpunit/phpunit:~5.7
 ```
 
 Cette commande install PHPUnit en version 5.7 dans les dépendances de développement.
