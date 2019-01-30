@@ -176,7 +176,7 @@ class BlogPostTest extends TestCase
 }
 ```
 
-Ici, peut importe que la base de données réelles soit cassée ou qu'elle soit mise à jour en production! Nous nous assurons que le retour json soit en adéquation avec ce que nous attendons réellement. Nous avons exécuté du code en environnement contrôlé et garanti que la fonction `getUsers` fonctionnait.
+Ici, notre test ne dépend pas de la base de données réelle! Donc même si celle-ci est cassée nous pouvons vérifier le comportement de la fonction `getUsers`. Nous nous assurons que le retour json soit en adéquation avec ce que nous attendons réellement. Nous avons exécuté du code en environnement contrôlé et garanti que la fonction `getUsers` fonctionnait.
 
 > Oui mais... et si la fonction `execute` ne fonctionne pas?
 
