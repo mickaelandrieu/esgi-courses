@@ -1,0 +1,15 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Default Light+",
+    "window.zoomLevel": 4,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "php.suggest.basic": false,
+    "material-icon-theme.showUpdateMessage": false,
+    "workbench.statusBar.visible": false,
+    "workbench.editor.showTabs": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.activityBar.visible": false,
+    "editor.lineHeight": 13,
+    "editor.lineNumbers": "off"
+}
