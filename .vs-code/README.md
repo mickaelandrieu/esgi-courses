@@ -1,0 +1,1 @@
+Put the file settings.json into .vscode folder at the root of the project.
