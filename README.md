@@ -1,6 +1,7 @@
-# Bonnes pratiques du Code
+# Cours animés par Mickaël Andrieu au sein de l'ESGI
 
-Semaine thématique organisée dans le cadre de la formation des Bachelors du parcours "Ingénieurie du Web" de l'ESGI Paris.
+Cours à destination des bachelors du parcours "Ingénieurie du Web" de l'ESGI Paris.
+Cours à destination des ingénieurs du parcours "Ingénieurie du Web" de l'ESGI Paris.
 
 <img src="https://user-images.githubusercontent.com/1247388/31469017-7a31beae-aee0-11e7-8771-c964208ae326.png" width="250" alt="Ingénieurie du web et de l'eBusiness" /> 
 
@@ -34,3 +35,9 @@ Formation sur le logiciel à l'aide du logiciel GitKraken et pratique du logicie
 * Démonstration de tests unitaires à l'aide de l'outil [PHPUnit](https://phpunit.de/);
 * Démonstration de tests fonctionnels à l'aide de l'outil [Nightwatch.js](http://nightwatchjs.org/);
 * TP en autonomie: découverte de l'outil [Cypress](https://www.cypress.io/);
+
+## Performance PHP (avec [Blackfire](https://blackfire.io/docs/introduction))
+
+* Cours disponible sur [OpenClassRooms](https://openclassrooms.com/fr/courses/4939956-surveillez-la-performance-de-votre-application-php);
+* QCM;
+* Document d'audit;
